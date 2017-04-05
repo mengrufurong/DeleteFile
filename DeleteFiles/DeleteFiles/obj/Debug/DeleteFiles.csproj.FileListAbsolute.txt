@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\NewLife.Core.dll
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe.config
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\Kingdom.ServiceProcess.Extensions.dll
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\Kingdom.ServiceProcess.Extensions.pdb
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\Kingdom.ServiceProcess.Extensions.xml
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\NewLife.Core.pdb
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\NewLife.Core.xml
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.exe
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.pdb
+D:\Documents\Visual Studio 2015\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.pdb
